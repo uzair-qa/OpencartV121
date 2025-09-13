@@ -1,0 +1,10 @@
+2025-09-13 21:26:59 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on Register Link
+2025-09-13 21:26:59 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Providing Customer Details...
+2025-09-13 21:27:01 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 21:27:03 [main] INFO  testCases.TC002_LoginTest -
+					*********Starting TC002_LoginTest **************
+2025-09-13 21:27:04 [main] INFO  testCases.TC002_LoginTest -
+					*********Finished TC002_LoginTest **************

@@ -1,0 +1,80 @@
+2025-09-13 16:31:06 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 16:31:09 [main] INFO  testCases.TC002_LoginTest -
+					*********Starting TC002_LoginTest **************
+2025-09-13 16:31:11 [main] INFO  testCases.TC002_LoginTest -
+					*********Finished TC002_LoginTest **************
+2025-09-13 20:38:41 [main] DEBUG org.testng.TestNG -
+					suiteXmlPath: "D:\Java_Hybrid_Framework\OpencartHybridAutomation\OpencartV121\master.xml"
+2025-09-13 20:39:28 [main] DEBUG org.testng.TestNG -
+					suiteXmlPath: "D:\Java_Hybrid_Framework\OpencartHybridAutomation\OpencartV121\master.xml"
+2025-09-13 20:43:58 [main] DEBUG org.testng.TestNG -
+					suiteXmlPath: "D:\Java_Hybrid_Framework\OpencartHybridAutomation\OpencartV121\master.xml"
+2025-09-13 20:44:02 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 20:44:02 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on MyAccount Link
+2025-09-13 20:44:02 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on Register Link
+2025-09-13 20:44:02 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Providing Customer Details...
+2025-09-13 20:44:04 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 20:44:06 [main] INFO  testCases.TC002_LoginTest -
+					*********Starting TC002_LoginTest **************
+2025-09-13 20:44:07 [main] INFO  testCases.TC002_LoginTest -
+					*********Finished TC002_LoginTest **************
+2025-09-13 20:45:21 [main] DEBUG org.testng.TestNG -
+					suiteXmlPath: "D:\Java_Hybrid_Framework\OpencartHybridAutomation\OpencartV121\master.xml"
+2025-09-13 20:45:23 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 20:45:24 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on MyAccount Link
+2025-09-13 20:45:24 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on Register Link
+2025-09-13 20:45:24 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Providing Customer Details...
+2025-09-13 20:45:25 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 20:45:27 [main] INFO  testCases.TC002_LoginTest -
+					*********Starting TC002_LoginTest **************
+2025-09-13 20:45:29 [main] INFO  testCases.TC002_LoginTest -
+					*********Finished TC002_LoginTest **************
+2025-09-13 20:46:32 [main] DEBUG org.testng.TestNG -
+					suiteXmlPath: "D:\Java_Hybrid_Framework\OpencartHybridAutomation\OpencartV121\master.xml"
+2025-09-13 20:46:35 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 20:46:35 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on MyAccount Link
+2025-09-13 20:46:35 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on Register Link
+2025-09-13 20:46:35 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Providing Customer Details...
+2025-09-13 20:46:37 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 20:46:39 [main] INFO  testCases.TC002_LoginTest -
+					*********Starting TC002_LoginTest **************
+2025-09-13 20:46:40 [main] INFO  testCases.TC002_LoginTest -
+					*********Finished TC002_LoginTest **************
+2025-09-13 21:20:45 [main] DEBUG org.testng.TestNG -
+					suiteXmlPath: "D:\Java_Hybrid_Framework\OpencartHybridAutomation\OpencartV121\master.xml"
+2025-09-13 21:20:48 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 21:20:48 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on MyAccount Link
+2025-09-13 21:20:48 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on Register Link
+2025-09-13 21:20:48 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Providing Customer Details...
+2025-09-13 21:20:50 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 21:20:52 [main] INFO  testCases.TC002_LoginTest -
+					*********Starting TC002_LoginTest **************
+2025-09-13 21:20:53 [main] INFO  testCases.TC002_LoginTest -
+					*********Finished TC002_LoginTest **************
+2025-09-13 21:26:56 [main] DEBUG org.testng.TestNG -
+					suiteXmlPath: "D:\Java_Hybrid_Framework\OpencartHybridAutomation\OpencartV121\master.xml"
+2025-09-13 21:26:59 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					*********Starting TC001_AccountRegisterationTest **************
+2025-09-13 21:26:59 [main] INFO  testCases.TC001_AccountRegisterationTest -
+					Clicked on MyAccount Link
